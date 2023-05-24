@@ -3,6 +3,7 @@ Hi 👋
 
 This page acts as the central location for all the blogs that I have written till now. My blogging journey started in 2022 and I've been loving writing ever since.
 
+* [Understanding ReplicaSet vs. StatefulSet vs. DaemonSet vs. Deployments / _Semaphore_](https://semaphoreci.com/blog/replicaset-statefulset-daemonset-deployments)
 * [Getting into open source / _Hashnode_](https://abhii85.hashnode.dev/getting-into-open-source)
 * [GSoC 2023 Guide – How to Prepare for Google Summer of Code / _FreeCodeCamp_](https://www.freecodecamp.org/news/google-summer-of-code-guide/)
 * [Building a go cli tool to generate Kubernetes deployment files / _Hashnode_](https://abhii85.hashnode.dev/building-a-go-cli-tool-to-generate-kubernetes-deployment-files)
