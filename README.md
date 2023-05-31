@@ -14,4 +14,4 @@ This page acts as the central location for all the blogs that I have written til
 * [Terminal vs Bash vs Command Line vs Command Prompt / _Hashnode_](https://abhii85.hashnode.dev/terminal-vs-bash-vs-command-line-vs-command-prompt)
 * [Hackathons / _Hashnode_](https://abhii85.hashnode.dev/hackathons)
 
-_Want me to write for you? [Let's chat](mailto:abhisman.sarkar@gmail.com)_
+_Want me to write for you? [Drop me a line here](https://www.linkedin.com/in/abhismansarkar/)_
